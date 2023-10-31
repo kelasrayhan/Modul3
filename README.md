@@ -4,7 +4,7 @@
 Program ini adalah Kalkulator untuk Konversi IPv4 ke Bentuk Biner. Program ini memungkinkan pengguna untuk memasukkan alamat IPv4 dalam format desimal titik (contoh: 192.168.1.1), dan kemudian mengonversinya menjadi bentuk biner. Hasil konversi ditampilkan kepada pengguna.
 
 ## Penulis
-Dibuat oleh: Rayhan Rizky Widi Ananta (NIM: 202210370311470)
+@autor Rayhan Rizky Widi Ananta (NIM: 202210370311470)
 
 ## Cara Menggunakan Program
 1. Jalankan program dengan menjalankan metode `main` di kelas `Main`.
